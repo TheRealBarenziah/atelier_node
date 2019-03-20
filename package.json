@@ -4,7 +4,7 @@
   "description": "Simple training exercice",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node wilders.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/TheRealBarenziah/atelier_node/issues"
   },
-  "homepage": "https://github.com/TheRealBarenziah/atelier_node#readme"
+  "homepage": "https://github.com/TheRealBarenziah/atelier_node#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "shalk": "^1.0.0"
+  }
 }
