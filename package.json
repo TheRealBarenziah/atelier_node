@@ -1,0 +1,19 @@
+{
+  "name": "helloworld_node101",
+  "version": "1.0.0",
+  "description": "Simple training exercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealBarenziah/atelier_node.git"
+  },
+  "author": "TheRealBarenziah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRealBarenziah/atelier_node/issues"
+  },
+  "homepage": "https://github.com/TheRealBarenziah/atelier_node#readme"
+}
